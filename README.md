@@ -2,7 +2,7 @@
 
 ## Logo screen
 ![alt text](https://github.com/codefan1125/ceremonycoffee-wp-shopify/blob/master/Screenshot_1.png?raw=true)
-## MEDIA ABOUT US
+## Shop
 ![alt text](https://github.com/codefan1125/ceremonycoffee-wp-shopify/blob/master/Screenshot_2.png?raw=true)
-## OUR SERVICES
+## COLD BREW
 ![alt text](https://github.com/codefan1125/ceremonycoffee-wp-shopify/blob/master/Screenshot_3.png?raw=true)
